@@ -1,0 +1,2 @@
+# OpenCVSparseMatrixMath
+A very small library to compute some simple sparse matrix math operations using OpenCV SparseMats. Originally written as part of a C++ implementation of the algorithm described in *Robust Muscle Cell Quantification Using Structured Edge Detection and Hierarchical Segmentation*. 
